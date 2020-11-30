@@ -1,16 +1,17 @@
-### Hi there 👋
+### :sparkles: Hi there I'm Catherine! :sparkles:
 
-<!--
-**catherinevidos/catherinevidos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer with a background in costume design for television and film. 
 
-Here are some ideas to get you started:
+I love React :electron:, CSS & HTML (and being creative with code in general) but am also skilled in JavaScript, Ruby on Rails, MongoDB, PostgreSQL, Express, Node.js, Webpack, and more. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ :wave: Lets connect!
+ 
+ <a href='https://www.linkedin.com/in/catherine-vidos-03163684/' target='_blank'>LinkedIn</a>
+ <br>
+ </br>
+ <a href='https://catherinevidos.github.io/' target='_blank'>Portfolio Site</a>
+ <br>
+ </br>
+ Email:<a href="mailto:catherine.vidos@gmail.com">catherine.vidos@gmail.com</a>
+ 
+ 
