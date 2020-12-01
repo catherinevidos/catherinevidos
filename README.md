@@ -2,7 +2,7 @@
 
 I'm a software engineer with a background in costume design for television and film. 
 
-I love React :electron:, CSS & HTML (and being creative with code in general) but am also skilled in JavaScript, Ruby on Rails, MongoDB, PostgreSQL, Express, Node.js, Webpack, and more. 
+I love React :electron:, CSS & HTML (and being creative with code in general). I am also skilled in JavaScript, Ruby on Rails, MongoDB, PostgreSQL, Express, Node.js, Webpack, and more. 
 
  :wave: Lets connect!
  
